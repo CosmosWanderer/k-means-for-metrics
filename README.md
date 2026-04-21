@@ -8,8 +8,17 @@ chmod +x setup.sh
 ./setup.sh
 chmod +x run.sh
 ```
+### Windows
+```
+setup.bat
+```
 
-## Runnig tool
+## Running tool
+### Linux
 ```bash
 ./run.sh metrics_example.csv
+```
+### Windows
+```cmd
+run.bat metrics_example.csv
 ```

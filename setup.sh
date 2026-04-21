@@ -12,3 +12,4 @@ mkdir -p data
 mkdir -p results
 
 echo "Setup complete."
+deactivate
