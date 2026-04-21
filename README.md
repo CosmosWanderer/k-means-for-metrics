@@ -20,5 +20,7 @@ setup.bat
 ```
 ### Windows
 ```cmd
-run.bat metrics_example.csv
+venv\Scripts\activate.bat
+python main.py metrics_example.csv
+deactivate
 ```
